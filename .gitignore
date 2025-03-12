@@ -1,0 +1,17 @@
+# IDEs
+.vscode/
+.idea/
+
+# Python
+venv/
+__pycache__/
+*.egg-info/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Examples
+examples/*/data/
+examples/*/models/
+examples/*/output*/
